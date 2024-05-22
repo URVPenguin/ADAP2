@@ -42,7 +42,7 @@ public class DadesLot extends javax.swing.JFrame {
 
         jLabel2.setText("PREU TOTAL:");
 
-        jLabel3.setText("ΣPreuProductes + ΣPP*descompte");
+        jLabel3.setText("ΣPreuProductes - ΣPP*(descompte/100)");
 
         jTextField1.setText("99");
 
